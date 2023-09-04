@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-My_Directory="/home/vhdhbb/"
+My_Directory="/path/to/directory"
 
 for file in "$My_Directory"/*; do 
   if [ -f "$file" ];then
