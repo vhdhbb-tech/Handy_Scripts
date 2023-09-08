@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Directory to search for files
-search_directory="/var/log"
+search_directory="/path/to/directory"
 
 # Log file to store results
-log_file="/home/vhdhbb/Desktop/large_files.log"
+log_file="/path/to/directory/large_files.log"
 
 # Iterate over files in the directory
 for file in "$search_directory"/*; do
