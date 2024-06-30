@@ -22,7 +22,7 @@ while  [ $user_input_in_minutes -ne $system_time_in_minutes ]; do
 done
 
 # Download a Link from Youtube
-# youtube-dl -f bestvideo+bestaudio --merge-output-format mp4 https://www.youtube.com/watch?v=9bZkp7q19f0
-youtube-dl -f bestvideo+bestaudio --merge-output-format mp4 https://www.youtube.com/watch?v=JdXqCHT1rq0
+# youtube-dl -f bestvideo+bestaudio --merge-output-format mp4 https://www.youtube.com/***********
+youtube-dl -f bestvideo+bestaudio --merge-output-format mp4 https://www.youtube.com/*********
 
 
