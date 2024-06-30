@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory to search for files
-search_directory="/path/to/directory"
+search_directory="/path/to/directory"7
 
 # Log file to store results
 log_file="/path/to/directory/large_files.log"
